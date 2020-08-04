@@ -1,0 +1,10 @@
+com\ayusha\user\data\models\UserDataModel.class
+com\ayusha\user\data\models\DemoDataModel.class
+com\ayusha\user\data\models\LocationsUsersDataModel.class
+com\ayusha\user\data\models\HrDataModel.class
+com\ayusha\user\data\models\OrganizationDataModell.class
+com\ayusha\user\data\models\UsersDataModel.class
+com\ayusha\user\data\models\HrUserDataModel.class
+com\ayusha\user\data\models\EmployeeDataModel.class
+com\ayusha\user\data\models\UserLocationsDataModel.class
+com\ayusha\user\services\constants\UserServiceConstants.class
